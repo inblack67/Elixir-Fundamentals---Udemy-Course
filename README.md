@@ -1,4 +1,4 @@
-# Mastering Elixir Essentials: A Hands-On Journey through Core
+# Elixir Fundamentals - Prequel for building projects
 
 - iex shell overview
   - compile, recompile, alias etc
