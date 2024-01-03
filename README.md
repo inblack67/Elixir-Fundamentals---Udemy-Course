@@ -1,0 +1,21 @@
+# Mastering Elixir Essentials: A Hands-On Journey through Core
+
+- iex shell overview
+  - compile, recompile, alias etc
+- basics 
+  - data types (integers, floats, booleans, strings, atoms)
+  - operations (arithmetic, boolean, comparison etc.)
+- list
+- keyword list
+- map
+- enums
+- pattern matching
+- if else
+- case
+- cond
+- with
+- pipe
+- functions
+- function guards
+- strings
+- date time
